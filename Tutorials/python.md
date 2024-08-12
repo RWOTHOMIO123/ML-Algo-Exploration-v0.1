@@ -63,6 +63,6 @@ Namespaces are one honking great idea -- let's do more of those!
 ```python
 print("Hello, Welcome to the world of python programming.")
 
-## 2. Variables and Data Types
-
 ```
+
+## 2. Variables and Data Types
