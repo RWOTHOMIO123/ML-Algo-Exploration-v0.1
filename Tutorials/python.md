@@ -31,6 +31,7 @@ Python syntax is based on a philosophy best described by the <em>Zen of Python</
 - Launch your terminal, type python3 to enter interactive mode, the type this <em>import this</em> and press Enter. The output is shown below;
 
 ```markdown
+
 The Zen of Python, by Tim Peters
 
 Beautiful is better than ugly. 
@@ -61,4 +62,7 @@ Namespaces are one honking great idea -- let's do more of those!
 ### First python program
 ```python
 print("Hello, Welcome to the world of python programming.")
+
+## Variables and Data Types
+
 ```
